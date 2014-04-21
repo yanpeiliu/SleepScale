@@ -1,0 +1,631 @@
+[SERVER] Server is up! Server has 400 policies
+[SLEEPSCALE] Preparing SleepScale...
+[SLEEPSCALE] All files are open. CDFs are read!
+[SLEEPSCALE] Constructing the estimator...
+[ESTIMATOR] Estimator is up!
+[SlEEPSCALE] Ensuring the clock is reset -- current minute # is 0
+[SLEEPSCALE] SleepScale is ready!
+[SLEEPSCALE] Starting SleepScale...
+
+====== STARTING MINUTE # 0
+[SLEEPSCALE] Estimating the utilization for minute # 0
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Not enough history! Need more samples!
+[SLEEPSCALE] Observe the utilization of minute # 0
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] Not enough history! Adding this observed 0.6 to the history queue!
+[SLEEPSCALE] Generate workload for minute # 0 under utilization 0.6.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 195. Empirical utilization for this minute is 0.60045. Mean service time is 184.385
+
+====== STARTING MINUTE # 1
+[SLEEPSCALE] Estimating the utilization for minute # 1
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Not enough history! Need more samples!
+[SLEEPSCALE] Observe the utilization of minute # 1
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] Not enough history! Adding this observed 0.78 to the history queue!
+[SLEEPSCALE] Generate workload for minute # 1 under utilization 0.78.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 248. Empirical utilization for this minute is 0.762353. Mean service time is 182.923
+
+====== STARTING MINUTE # 2
+[SLEEPSCALE] Estimating the utilization for minute # 2
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Not enough history! Need more samples!
+[SLEEPSCALE] Observe the utilization of minute # 2
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] Not enough history! Adding this observed 0.7 to the history queue!
+[SLEEPSCALE] Generate workload for minute # 2 under utilization 0.7.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 238. Empirical utilization for this minute is 0.746935. Mean service time is 188.193
+
+====== STARTING MINUTE # 3
+[SLEEPSCALE] Estimating the utilization for minute # 3
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Not enough history! Need more samples!
+[SLEEPSCALE] Observe the utilization of minute # 3
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] Not enough history! Adding this observed 0.72 to the history queue!
+[SLEEPSCALE] Generate workload for minute # 3 under utilization 0.72.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 264. Empirical utilization for this minute is 0.723146. Mean service time is 164.186
+
+====== STARTING MINUTE # 4
+[SLEEPSCALE] Estimating the utilization for minute # 4
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Not enough history! Need more samples!
+[SLEEPSCALE] Observe the utilization of minute # 4
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] Not enough history! Adding this observed 0.78 to the history queue!
+[SLEEPSCALE] Generate workload for minute # 4 under utilization 0.78.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 239. Empirical utilization for this minute is 0.742934. Mean service time is 186.464
+
+====== STARTING MINUTE # 5
+[SLEEPSCALE] Estimating the utilization for minute # 5
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Not enough history! Need more samples!
+[SLEEPSCALE] Observe the utilization of minute # 5
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] Not enough history! Adding this observed 0.71 to the history queue!
+[SLEEPSCALE] Generate workload for minute # 5 under utilization 0.71.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 198. Empirical utilization for this minute is 0.707868. Mean service time is 213.157
+
+====== STARTING MINUTE # 6
+[SLEEPSCALE] Estimating the utilization for minute # 6
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Not enough history! Need more samples!
+[SLEEPSCALE] Observe the utilization of minute # 6
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] Not enough history! Adding this observed 0.6 to the history queue!
+[SLEEPSCALE] Generate workload for minute # 6 under utilization 0.6.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 207. Empirical utilization for this minute is 0.631533. Mean service time is 182.319
+
+====== STARTING MINUTE # 7
+[SLEEPSCALE] Estimating the utilization for minute # 7
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Not enough history! Need more samples!
+[SLEEPSCALE] Observe the utilization of minute # 7
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] Not enough history! Adding this observed 0.54 to the history queue!
+[SLEEPSCALE] Generate workload for minute # 7 under utilization 0.54.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 174. Empirical utilization for this minute is 0.541444. Mean service time is 186.437
+
+====== STARTING MINUTE # 8
+[SLEEPSCALE] Estimating the utilization for minute # 8
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Not enough history! Need more samples!
+[SLEEPSCALE] Observe the utilization of minute # 8
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] Not enough history! Adding this observed 0.71 to the history queue!
+[SLEEPSCALE] Generate workload for minute # 8 under utilization 0.71.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 211. Empirical utilization for this minute is 0.694192. Mean service time is 196.588
+
+====== STARTING MINUTE # 9
+[SLEEPSCALE] Estimating the utilization for minute # 9
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Not enough history! Need more samples!
+[SLEEPSCALE] Observe the utilization of minute # 9
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] Not enough history! Adding this observed 0.56 to the history queue!
+[SLEEPSCALE] Generate workload for minute # 9 under utilization 0.56.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 206. Empirical utilization for this minute is 0.553168. Mean service time is 160.34
+
+====== STARTING MINUTE # 10
+[SLEEPSCALE] Estimating the utilization for minute # 10
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.56
+[SLEEPSCALE] Observe the utilization of minute # 10
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.53
+[SLEEPSCALE] Generate workload for minute # 10 under utilization 0.53.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 170. Empirical utilization for this minute is 0.513566. Mean service time is 180.971
+
+====== STARTING MINUTE # 11
+[SLEEPSCALE] Estimating the utilization for minute # 11
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.53
+[SLEEPSCALE] Observe the utilization of minute # 11
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.61
+[SLEEPSCALE] Generate workload for minute # 11 under utilization 0.61.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 191. Empirical utilization for this minute is 0.604138. Mean service time is 189.66
+
+====== STARTING MINUTE # 12
+[SLEEPSCALE] Estimating the utilization for minute # 12
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.61
+[SLEEPSCALE] Observe the utilization of minute # 12
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.66
+[SLEEPSCALE] Generate workload for minute # 12 under utilization 0.66.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 234. Empirical utilization for this minute is 0.65351. Mean service time is 166.218
+
+====== STARTING MINUTE # 13
+[SLEEPSCALE] Estimating the utilization for minute # 13
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.66
+[SLEEPSCALE] Observe the utilization of minute # 13
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.54
+[SLEEPSCALE] Generate workload for minute # 13 under utilization 0.54.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 195. Empirical utilization for this minute is 0.543044. Mean service time is 166.846
+
+====== STARTING MINUTE # 14
+[SLEEPSCALE] Estimating the utilization for minute # 14
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.54
+[SLEEPSCALE] Observe the utilization of minute # 14
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.65
+[SLEEPSCALE] Generate workload for minute # 14 under utilization 0.65.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 203. Empirical utilization for this minute is 0.655231. Mean service time is 192.783
+
+====== STARTING MINUTE # 15
+[SLEEPSCALE] Estimating the utilization for minute # 15
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.65
+[SLEEPSCALE] Observe the utilization of minute # 15
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.71
+[SLEEPSCALE] Generate workload for minute # 15 under utilization 0.71.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 217. Empirical utilization for this minute is 0.718849. Mean service time is 198.272
+
+====== STARTING MINUTE # 16
+[SLEEPSCALE] Estimating the utilization for minute # 16
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.71
+[SLEEPSCALE] Observe the utilization of minute # 16
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.55
+[SLEEPSCALE] Generate workload for minute # 16 under utilization 0.55.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 197. Empirical utilization for this minute is 0.55765. Mean service time is 169.822
+
+====== STARTING MINUTE # 17
+[SLEEPSCALE] Estimating the utilization for minute # 17
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.55
+[SLEEPSCALE] Observe the utilization of minute # 17
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.53
+[SLEEPSCALE] Generate workload for minute # 17 under utilization 0.53.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 167. Empirical utilization for this minute is 0.51262. Mean service time is 183.862
+
+====== STARTING MINUTE # 18
+[SLEEPSCALE] Estimating the utilization for minute # 18
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.53
+[SLEEPSCALE] Observe the utilization of minute # 18
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.74
+[SLEEPSCALE] Generate workload for minute # 18 under utilization 0.74.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 233. Empirical utilization for this minute is 0.734552. Mean service time is 188.412
+
+====== STARTING MINUTE # 19
+[SLEEPSCALE] Estimating the utilization for minute # 19
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.74
+[SLEEPSCALE] Observe the utilization of minute # 19
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.66
+[SLEEPSCALE] Generate workload for minute # 19 under utilization 0.66.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 218. Empirical utilization for this minute is 0.644108. Mean service time is 175.619
+
+====== STARTING MINUTE # 20
+[SLEEPSCALE] Estimating the utilization for minute # 20
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.66
+[SLEEPSCALE] Observe the utilization of minute # 20
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.58
+[SLEEPSCALE] Generate workload for minute # 20 under utilization 0.58.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 193. Empirical utilization for this minute is 0.577949. Mean service time is 179.223
+
+====== STARTING MINUTE # 21
+[SLEEPSCALE] Estimating the utilization for minute # 21
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.58
+[SLEEPSCALE] Observe the utilization of minute # 21
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.62
+[SLEEPSCALE] Generate workload for minute # 21 under utilization 0.62.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 203. Empirical utilization for this minute is 0.621642. Mean service time is 182.044
+
+====== STARTING MINUTE # 22
+[SLEEPSCALE] Estimating the utilization for minute # 22
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.62
+[SLEEPSCALE] Observe the utilization of minute # 22
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.58
+[SLEEPSCALE] Generate workload for minute # 22 under utilization 0.58.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 195. Empirical utilization for this minute is 0.583134. Mean service time is 179.256
+
+====== STARTING MINUTE # 23
+[SLEEPSCALE] Estimating the utilization for minute # 23
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.58
+[SLEEPSCALE] Observe the utilization of minute # 23
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.4
+[SLEEPSCALE] Generate workload for minute # 23 under utilization 0.4.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 121. Empirical utilization for this minute is 0.397583. Mean service time is 192.934
+
+====== STARTING MINUTE # 24
+[SLEEPSCALE] Estimating the utilization for minute # 24
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.4
+[SLEEPSCALE] Observe the utilization of minute # 24
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.37
+[SLEEPSCALE] Generate workload for minute # 24 under utilization 0.37.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 115. Empirical utilization for this minute is 0.345075. Mean service time is 178.609
+
+====== STARTING MINUTE # 25
+[SLEEPSCALE] Estimating the utilization for minute # 25
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.37
+[SLEEPSCALE] Observe the utilization of minute # 25
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.43
+[SLEEPSCALE] Generate workload for minute # 25 under utilization 0.43.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 151. Empirical utilization for this minute is 0.421444. Mean service time is 165.728
+
+====== STARTING MINUTE # 26
+[SLEEPSCALE] Estimating the utilization for minute # 26
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.43
+[SLEEPSCALE] Observe the utilization of minute # 26
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.59
+[SLEEPSCALE] Generate workload for minute # 26 under utilization 0.59.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 178. Empirical utilization for this minute is 0.61329. Mean service time is 206.573
+
+====== STARTING MINUTE # 27
+[SLEEPSCALE] Estimating the utilization for minute # 27
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.59
+[SLEEPSCALE] Observe the utilization of minute # 27
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.65
+[SLEEPSCALE] Generate workload for minute # 27 under utilization 0.65.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 201. Empirical utilization for this minute is 0.652252. Mean service time is 194.104
+
+====== STARTING MINUTE # 28
+[SLEEPSCALE] Estimating the utilization for minute # 28
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.65
+[SLEEPSCALE] Observe the utilization of minute # 28
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.6
+[SLEEPSCALE] Generate workload for minute # 28 under utilization 0.6.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 163. Empirical utilization for this minute is 0.607286. Mean service time is 222.331
+
+====== STARTING MINUTE # 29
+[SLEEPSCALE] Estimating the utilization for minute # 29
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.6
+[SLEEPSCALE] Observe the utilization of minute # 29
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.52
+[SLEEPSCALE] Generate workload for minute # 29 under utilization 0.52.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 193. Empirical utilization for this minute is 0.517459. Mean service time is 160.544
+
+====== STARTING MINUTE # 30
+[SLEEPSCALE] Estimating the utilization for minute # 30
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.52
+[SLEEPSCALE] Observe the utilization of minute # 30
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.83
+[SLEEPSCALE] Generate workload for minute # 30 under utilization 0.83.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 247. Empirical utilization for this minute is 0.874155. Mean service time is 209.028
+
+====== STARTING MINUTE # 31
+[SLEEPSCALE] Estimating the utilization for minute # 31
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.83
+[SLEEPSCALE] Observe the utilization of minute # 31
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.71
+[SLEEPSCALE] Generate workload for minute # 31 under utilization 0.71.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 239. Empirical utilization for this minute is 0.709291. Mean service time is 177.762
+
+====== STARTING MINUTE # 32
+[SLEEPSCALE] Estimating the utilization for minute # 32
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.71
+[SLEEPSCALE] Observe the utilization of minute # 32
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.6
+[SLEEPSCALE] Generate workload for minute # 32 under utilization 0.6.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 195. Empirical utilization for this minute is 0.633628. Mean service time is 194.308
+
+====== STARTING MINUTE # 33
+[SLEEPSCALE] Estimating the utilization for minute # 33
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.6
+[SLEEPSCALE] Observe the utilization of minute # 33
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.56
+[SLEEPSCALE] Generate workload for minute # 33 under utilization 0.56.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 213. Empirical utilization for this minute is 0.547763. Mean service time is 153.451
+
+====== STARTING MINUTE # 34
+[SLEEPSCALE] Estimating the utilization for minute # 34
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.56
+[SLEEPSCALE] Observe the utilization of minute # 34
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.58
+[SLEEPSCALE] Generate workload for minute # 34 under utilization 0.58.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 203. Empirical utilization for this minute is 0.583631. Mean service time is 171.724
+
+====== STARTING MINUTE # 35
+[SLEEPSCALE] Estimating the utilization for minute # 35
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.58
+[SLEEPSCALE] Observe the utilization of minute # 35
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.6
+[SLEEPSCALE] Generate workload for minute # 35 under utilization 0.6.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 216. Empirical utilization for this minute is 0.576531. Mean service time is 159.815
+
+====== STARTING MINUTE # 36
+[SLEEPSCALE] Estimating the utilization for minute # 36
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.6
+[SLEEPSCALE] Observe the utilization of minute # 36
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.54
+[SLEEPSCALE] Generate workload for minute # 36 under utilization 0.54.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 180. Empirical utilization for this minute is 0.514731. Mean service time is 171.167
+
+====== STARTING MINUTE # 37
+[SLEEPSCALE] Estimating the utilization for minute # 37
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.54
+[SLEEPSCALE] Observe the utilization of minute # 37
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.5
+[SLEEPSCALE] Generate workload for minute # 37 under utilization 0.5.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 166. Empirical utilization for this minute is 0.525399. Mean service time is 189.127
+
+====== STARTING MINUTE # 38
+[SLEEPSCALE] Estimating the utilization for minute # 38
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.5
+[SLEEPSCALE] Observe the utilization of minute # 38
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.53
+[SLEEPSCALE] Generate workload for minute # 38 under utilization 0.53.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 161. Empirical utilization for this minute is 0.537009. Mean service time is 198.634
+
+====== STARTING MINUTE # 39
+[SLEEPSCALE] Estimating the utilization for minute # 39
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.53
+[SLEEPSCALE] Observe the utilization of minute # 39
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.72
+[SLEEPSCALE] Generate workload for minute # 39 under utilization 0.72.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 216. Empirical utilization for this minute is 0.695233. Mean service time is 191.574
+
+====== STARTING MINUTE # 40
+[SLEEPSCALE] Estimating the utilization for minute # 40
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.72
+[SLEEPSCALE] Observe the utilization of minute # 40
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.61
+[SLEEPSCALE] Generate workload for minute # 40 under utilization 0.61.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 176. Empirical utilization for this minute is 0.602325. Mean service time is 205.057
+
+====== STARTING MINUTE # 41
+[SLEEPSCALE] Estimating the utilization for minute # 41
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.61
+[SLEEPSCALE] Observe the utilization of minute # 41
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.48
+[SLEEPSCALE] Generate workload for minute # 41 under utilization 0.48.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 140. Empirical utilization for this minute is 0.448222. Mean service time is 191.286
+
+====== STARTING MINUTE # 42
+[SLEEPSCALE] Estimating the utilization for minute # 42
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.48
+[SLEEPSCALE] Observe the utilization of minute # 42
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.29
+[SLEEPSCALE] Generate workload for minute # 42 under utilization 0.29.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 93. Empirical utilization for this minute is 0.324072. Mean service time is 206.29
+
+====== STARTING MINUTE # 43
+[SLEEPSCALE] Estimating the utilization for minute # 43
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.29
+[SLEEPSCALE] Observe the utilization of minute # 43
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.33
+[SLEEPSCALE] Generate workload for minute # 43 under utilization 0.33.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 114. Empirical utilization for this minute is 0.326909. Mean service time is 172.018
+
+====== STARTING MINUTE # 44
+[SLEEPSCALE] Estimating the utilization for minute # 44
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.33
+[SLEEPSCALE] Observe the utilization of minute # 44
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.47
+[SLEEPSCALE] Generate workload for minute # 44 under utilization 0.47.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 153. Empirical utilization for this minute is 0.506388. Mean service time is 198.464
+
+====== STARTING MINUTE # 45
+[SLEEPSCALE] Estimating the utilization for minute # 45
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.47
+[SLEEPSCALE] Observe the utilization of minute # 45
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.57
+[SLEEPSCALE] Generate workload for minute # 45 under utilization 0.57.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 184. Empirical utilization for this minute is 0.563872. Mean service time is 183.668
+
+====== STARTING MINUTE # 46
+[SLEEPSCALE] Estimating the utilization for minute # 46
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.57
+[SLEEPSCALE] Observe the utilization of minute # 46
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.57
+[SLEEPSCALE] Generate workload for minute # 46 under utilization 0.57.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 172. Empirical utilization for this minute is 0.563798. Mean service time is 196.337
+
+====== STARTING MINUTE # 47
+[SLEEPSCALE] Estimating the utilization for minute # 47
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.57
+[SLEEPSCALE] Observe the utilization of minute # 47
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.38
+[SLEEPSCALE] Generate workload for minute # 47 under utilization 0.38.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 137. Empirical utilization for this minute is 0.377643. Mean service time is 165.182
+
+====== STARTING MINUTE # 48
+[SLEEPSCALE] Estimating the utilization for minute # 48
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.38
+[SLEEPSCALE] Observe the utilization of minute # 48
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.45
+[SLEEPSCALE] Generate workload for minute # 48 under utilization 0.45.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 163. Empirical utilization for this minute is 0.4482. Mean service time is 164.54
+
+====== STARTING MINUTE # 49
+[SLEEPSCALE] Estimating the utilization for minute # 49
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.45
+[SLEEPSCALE] Observe the utilization of minute # 49
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.44
+[SLEEPSCALE] Generate workload for minute # 49 under utilization 0.44.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 139. Empirical utilization for this minute is 0.439671. Mean service time is 189.46
+
+====== STARTING MINUTE # 50
+[SLEEPSCALE] Estimating the utilization for minute # 50
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.44
+[SLEEPSCALE] Observe the utilization of minute # 50
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.29
+[SLEEPSCALE] Generate workload for minute # 50 under utilization 0.29.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 86. Empirical utilization for this minute is 0.311999. Mean service time is 217.326
+
+====== STARTING MINUTE # 51
+[SLEEPSCALE] Estimating the utilization for minute # 51
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.29
+[SLEEPSCALE] Observe the utilization of minute # 51
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.41
+[SLEEPSCALE] Generate workload for minute # 51 under utilization 0.41.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 115. Empirical utilization for this minute is 0.394397. Mean service time is 205.435
+
+====== STARTING MINUTE # 52
+[SLEEPSCALE] Estimating the utilization for minute # 52
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.41
+[SLEEPSCALE] Observe the utilization of minute # 52
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.53
+[SLEEPSCALE] Generate workload for minute # 52 under utilization 0.53.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 161. Empirical utilization for this minute is 0.538892. Mean service time is 200.652
+
+====== STARTING MINUTE # 53
+[SLEEPSCALE] Estimating the utilization for minute # 53
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.53
+[SLEEPSCALE] Observe the utilization of minute # 53
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.52
+[SLEEPSCALE] Generate workload for minute # 53 under utilization 0.52.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 184. Empirical utilization for this minute is 0.522926. Mean service time is 168.832
+
+====== STARTING MINUTE # 54
+[SLEEPSCALE] Estimating the utilization for minute # 54
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.52
+[SLEEPSCALE] Observe the utilization of minute # 54
+[ESTIMATOR] Observing utilization
+[ESTIMATOR] New utilization is observed successfully! The observed rho is 0.46
+[SLEEPSCALE] Generate workload for minute # 54 under utilization 0.46.
+[GEN_CDF] Generating workload from CDFs.
+[GEN_CDF] Workload generated successfully! Total number of jobs generated: 136. Empirical utilization for this minute is 0.517989. Mean service time is 228.309
+
+====== STARTING MINUTE # 55
+[SLEEPSCALE] Estimating the utilization for minute # 55
+[ESTIMATOR] Estimating utilization.
+[ESTIMATOR] Estimation success! The next estimate is 0.46
++++++++++++++++ Time to adjust policy at minute # 55
+[SLEEPSCALE] Run the server
+[DO_QUEUE] Running workload using frequency 1 and low-power state Baseline
+[DO_QUEUE] The last job's departure time is 3.30078e+006
+[DO_QUEUE] Number of jobs ran is 10107. Total number of jobs ran from minute 0 is 0
+[DO_QUEUE] Average response time so far is: 1.#INF
+[SLEEPSCALE] Run the baseline
+[DO_QUEUE_BL] Running workload using the baseline policy...
+[DO_QUEUE_BL] Number of jobs ran is 10107. Total number of jobs ran from minute 0 is 0
+[DO_QUEUE_BL] Average response time for baseline so far is: 1.#INF
+++++++++++++++++++++++++++++++ Now do SleepScale!
+[DO_SLEEPSCALE] Adjusting the arrival times...
+[DO_SLEEPSCALE] Job log adjusted! This new workload for SleepScale has utilization 0.461208 and first job starts at 222.79
