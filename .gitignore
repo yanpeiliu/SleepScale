@@ -9,6 +9,7 @@
 *.vcxproj
 *.vcxproj.filters
 *.gitattributes
+output
 
 # Build results
 [Dd]ebug/
