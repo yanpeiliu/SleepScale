@@ -29,16 +29,21 @@
 *
 */
 
+/*
+DO NOT TURN ON DO_SLEEPSCALE_ADV. IT IS STILL UNDER DEVELOPMENT
+*/
+
 #include "Server.h"
 #include "const.h"
 #include "config.h"
 
-/* 
-rho_in is the utilization log. cdf_ser and cdf_arr are cdf distributions used to generate workload. SleepScale is called every T mins
-and only when job log has accumulated JOB_LOG_LENGTH = 10,000 jobs. 
-*/
 
 void Server::run(const string rho_in, const string cdf_ser, const string cdf_arr){
+
+	/*
+	rho_in is the utilization log. cdf_ser and cdf_arr are cdf distributions used to generate workload. SleepScale is called every T mins
+	and only when job log has accumulated JOB_LOG_LENGTH = 10,000 jobs.
+	*/ 
 
 	// Open those files!
 	this->logOut << "[SLEEPSCALE] Preparing SleepScale..." << endl;
